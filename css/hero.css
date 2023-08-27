@@ -1,9 +1,10 @@
 body{
 	
-font-family: Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	margin: 0;
 	font-size: 20px;
 	line-height: 25px;
+	background-color: white;
 }
 
 /*header styles*/
@@ -33,6 +34,7 @@ main{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
+
 }
 
 main img{
